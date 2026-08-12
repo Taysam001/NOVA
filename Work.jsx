@@ -1,5 +1,5 @@
 import { ArrowUpRight } from "lucide-react";
-import { projects } from "../projects";
+import { projects } from "./projects";
 
 export default function Work() {
   return (
